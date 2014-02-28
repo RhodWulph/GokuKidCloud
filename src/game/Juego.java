@@ -75,7 +75,7 @@ public class Juego extends Canvas implements Escenario, KeyListener {
 
 	public Juego() {
 		ventanaPrincipal = new JFrame();
-		ventanaPrincipal.setTitle("Kid Goku Cloud");
+		ventanaPrincipal.setTitle("Goku Kid Cloud");
 		ventanaPrincipal
 				.setSize(new Dimension(Escenario.ANCHO, Escenario.ALTO));
 		ventanaPrincipal.setResizable(false);
